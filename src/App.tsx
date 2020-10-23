@@ -5,19 +5,19 @@ import Properties from "./pages/Properties";
 
 const App = () => (
   <BrowserRouter>
-    <React.Suspense>
+    <React.Suspense fallback={() => null}>
       <Switch>
         <Route
           exact
           path="/login"
           name="Login"
-          render={(props) => <Login {...props} />}
+          render={(props: any) => <Login {...props} />}
         />
         <Route
           exact
           path="/"
           name="Propriedades"
-          render={(props) => <Properties {...props} />}
+          render={(props: any) => <Properties {...props} />}
         />
       </Switch>
     </React.Suspense>
