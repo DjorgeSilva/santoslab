@@ -35,7 +35,7 @@ Primeiramente o objetivo do teste é avaliar sua capacidade de lidar com todas a
 
 Já existem algumas *libs* instaladas no template, e com elas você consegue cumprir maior parte do proposto. Só sendo necessária uma lib de mapas de sua escolha. No entanto se sentir necessidade de mais alguma ferramenta, você pode inclui-la sem problema nenhum. Na verdade você pode modificar qualquer parte do template, exceto os dados da pasta `assets`!
 
-No momento que instalar e rodar o servidor local, você perceberá que haverá um erro no `App.tsx`, isto está acontecendo pois ainda não há um componente para o Login nem para as Propriedades, e você que irá providênciá-los.
+No momento que instalar e rodar o servidor local, você perceberá que haverá um erro no `App.tsx`, isto está acontecendo pois ainda não há um componente para as Propriedades, e você que irá providênciá-lo.
 
 ## Forma de avaliação
 
