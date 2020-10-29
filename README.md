@@ -23,7 +23,6 @@ Primeiramente o objetivo do teste é avaliar sua capacidade de lidar com todas a
 
 ## Os requisitos Funcionais
 
- - **Página de Login**: Nesta página o usuário deverá acessar a plataforma, inserindo seu usuário e senha, sendo redirecionado para a página de propriedades se usuário e senha estiverem corretos, e exibindo um erro se houver algum dado incorreto. De preferência utilize o `react-hook-form`;
  - **Página de Propriedades**: Esta página deverá exibir as propriedades associadas com seu usuário, ou exibir todas caso seja do perfil `admin`. Cada fazenda deverá ser exibida em um mapa individual ou um mapa exibindo todas elas (usando leaflet, ou qualquer lib que preferir). A forma de exibir as outras informações e quais informações deve exbibir fica a gosto de você! 
 
 ## Os requisitos Técnicos
