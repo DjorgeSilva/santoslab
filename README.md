@@ -1,6 +1,6 @@
-# Teste de Front-end Júnior Santos Lab
+# Teste de Front-end Pleno Santos Lab
 
-Este repositório contém o teste para a vaga desenvolvedor front-end júnior para a Santos Lab. Para iniciar o teste deverá primeiro realizar um fork neste repositório, e salvá-lo em seu computador. Para instalar e iniciar o servidor utilize os seguintes comandos dentro da pasta do repositório no seu terminal com o node (v14.3.0) instalado.
+Este repositório contém o teste para a vaga desenvolvedor front-end pleno para a Santos Lab. Primeiro clone este repositório (sem usar fork) em seu github. Para instalar e iniciar o servidor utilize os seguintes comandos dentro da pasta do repositório no seu terminal com o node (v14.3.0) instalado.
 
 ### `npm install`
 
@@ -19,7 +19,7 @@ Cria o servidor de testes locais
 
 # Como funciona o teste
 
-Primeiramente o objetivo do teste é avaliar sua capacidade de lidar com todas as etapas comuns de desenvolvimento React que utilizará no seu dia a dia na empresa. O teste foi feito para o nível Júnior, mas no front-end sempre há espaço para inovações, mesmo com os requisitos mais simples!
+Primeiramente o objetivo do teste é avaliar sua capacidade de lidar com todas as etapas comuns de desenvolvimento React que utilizará no seu dia a dia na empresa. O teste foi feito para ser uma prova de conceito simples, mas no front-end sempre há espaço para inovações, mesmo com os requisitos mais simples!
 
 ## Os requisitos Funcionais
 
