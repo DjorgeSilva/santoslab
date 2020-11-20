@@ -29,14 +29,14 @@ Primeiramente o objetivo do teste é avaliar sua capacidade de lidar com todas a
 ## Os requisitos Técnicos
 
  - O conteúdo de dados da aplicação deverá ser gerenciado pelo Redux, de preferência utilizando o *redux-toolkit*, mas com liberdade para utilizar *redux* puro. Normalização dos dados usando `normalizr` é encorajada;
- - Os componentes visuais precisam ser desenvolvidos utilizando a *Material-UI* que já está instalada no template;
+ - Os componentes visuais precisam ser desenvolvidos utilizando a *Material-UI* que já está instalada no template. Fique a vontade caso queira adicionar Styled Components ou similares;
  - Os dados da "API" que está na pasta assets podem ser acessadas diretamente como JSON, não há necessidade de simular um `fetch`. Mas ainda há a necessidade de obtê-las através de um redux-thunk.
  
 ## Sobre o template
 
 Já existem algumas *libs* instaladas no template, e com elas você consegue cumprir maior parte do proposto. Só sendo necessária uma lib de mapas de sua escolha. No entanto se sentir necessidade de mais alguma ferramenta, você pode inclui-la sem problema nenhum. Na verdade você pode modificar qualquer parte do template, exceto os dados da pasta `assets`!
 
-No momento que instalar e rodar o servidor local, você perceberá que haverá um erro no `App.tsx`, isto está acontecendo pois ainda não há um componente para as Propriedades, e você que irá providênciá-lo.
+No momento que instalar e rodar o servidor local, você perceberá que haverá um erro no `App.tsx`, isto está acontecendo pois ainda não há um componente para as Propriedades e Login, e você que irá providênciá-lo.
 
 ## Forma de avaliação
 
