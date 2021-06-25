@@ -1,7 +1,8 @@
 import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Properties from "./pages/Properties";
-import Login from "./pages/Login";
+import { Properties } from "./pages/Properties/index";
+import { Login } from "./pages/Login";
+
 
 const App = () => (
   <BrowserRouter>
@@ -10,14 +11,12 @@ const App = () => (
         <Route
           exact
           path="/"
-          name="Propriedades"
-          render={(props: any) => <Properties {...props} />}
+          render={(props: any) => <Login {...props} />}
         />
         <Route
           exact
-          path="/"
-          name="Propriedades"
-          render={(props: any) => <Login {...props} />}
+          path="/properties"
+          render={(props: any) => <Properties {...props} />}
         />
       </Switch>
     </React.Suspense>
