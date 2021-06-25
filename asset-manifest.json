@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/santoslab-web/static/js/main.18afc61e.chunk.js",
-    "main.js.map": "/santoslab-web/static/js/main.18afc61e.chunk.js.map",
-    "runtime-main.js": "/santoslab-web/static/js/runtime-main.53b20cd6.js",
-    "runtime-main.js.map": "/santoslab-web/static/js/runtime-main.53b20cd6.js.map",
-    "static/css/2.357861d2.chunk.css": "/santoslab-web/static/css/2.357861d2.chunk.css",
-    "static/js/2.d8fd74e7.chunk.js": "/santoslab-web/static/js/2.d8fd74e7.chunk.js",
-    "static/js/2.d8fd74e7.chunk.js.map": "/santoslab-web/static/js/2.d8fd74e7.chunk.js.map",
-    "index.html": "/santoslab-web/index.html",
-    "static/css/2.357861d2.chunk.css.map": "/santoslab-web/static/css/2.357861d2.chunk.css.map",
-    "static/js/2.d8fd74e7.chunk.js.LICENSE.txt": "/santoslab-web/static/js/2.d8fd74e7.chunk.js.LICENSE.txt"
+    "main.js": "/santoslab-web.git/static/js/main.18afc61e.chunk.js",
+    "main.js.map": "/santoslab-web.git/static/js/main.18afc61e.chunk.js.map",
+    "runtime-main.js": "/santoslab-web.git/static/js/runtime-main.93ef2e45.js",
+    "runtime-main.js.map": "/santoslab-web.git/static/js/runtime-main.93ef2e45.js.map",
+    "static/css/2.357861d2.chunk.css": "/santoslab-web.git/static/css/2.357861d2.chunk.css",
+    "static/js/2.b7f98e12.chunk.js": "/santoslab-web.git/static/js/2.b7f98e12.chunk.js",
+    "static/js/2.b7f98e12.chunk.js.map": "/santoslab-web.git/static/js/2.b7f98e12.chunk.js.map",
+    "index.html": "/santoslab-web.git/index.html",
+    "static/css/2.357861d2.chunk.css.map": "/santoslab-web.git/static/css/2.357861d2.chunk.css.map",
+    "static/js/2.b7f98e12.chunk.js.LICENSE.txt": "/santoslab-web.git/static/js/2.b7f98e12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53b20cd6.js",
+    "static/js/runtime-main.93ef2e45.js",
     "static/css/2.357861d2.chunk.css",
-    "static/js/2.d8fd74e7.chunk.js",
+    "static/js/2.b7f98e12.chunk.js",
     "static/js/main.18afc61e.chunk.js"
   ]
 }
