@@ -1,9 +1,12 @@
 import React from 'react'
+//COMPONENTS
+import { Map } from '../Map'
 
 export const Properties: React.FC = (): JSX.Element => {
     return (
-        <div >
-            property
-        </div>
+        <React.Fragment>
+            <h1>teste</h1>
+            <Map />
+        </React.Fragment>
     )
 }
