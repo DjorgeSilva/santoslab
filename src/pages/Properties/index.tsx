@@ -1,11 +1,12 @@
 import React from 'react'
 //COMPONENTS
 import { Map } from '../Map'
+import { Detailsuser } from "../DetailsUser/index"
 
 export const Properties: React.FC = (): JSX.Element => {
     return (
         <React.Fragment>
-            <h1>teste</h1>
+            <Detailsuser />
             <Map />
         </React.Fragment>
     )

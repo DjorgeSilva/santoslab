@@ -1,14 +1,12 @@
 //interface
 import { actionInterface, loginInterface } from "../actionInterface";
+//userData
+import * as userData from "../../assets/users.json"
+
+export const initialState = userData;
 
 
-export const initialState = {
-    email: "flanelon18@gmail.com",
-    password: "senha"
-};
-
-
-export const reducer = (state: loginInterface = initialState, action: actionInterface) => {
+export const reducer = (state: any = initialState, action: actionInterface) => {
     switch (action.type) {
 
         case 'login':

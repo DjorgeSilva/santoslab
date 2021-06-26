@@ -1,6 +1,8 @@
 export interface loginInterface {
     email: string;
     password: string;
+    role: string,
+    propertyIds?: [];
 }
 
 export interface actionInterface {
