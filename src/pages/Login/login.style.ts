@@ -52,14 +52,9 @@ export const Wrapper = styled.div`
             margin-top: 25px;
         }
 
-        .link{
-            width: 100%;
-            height: 45px;
-        }
-
         button{
             width: 100%;
-            height: 100%;
+            height: 45px;
             margin-top: 25px;
             border-radius: 10px;
             outline: none;

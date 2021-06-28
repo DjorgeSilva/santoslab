@@ -1,7 +1,7 @@
 import React from 'react'
 //COMPONENTS
-import { Map } from '../Map'
-import { Detailsuser } from "../DetailsUser/index"
+import { Map } from '../../Components/Map'
+import { Detailsuser } from "../../Components/DetailsUser/index"
 
 export const Properties: React.FC = (): JSX.Element => {
     return (
